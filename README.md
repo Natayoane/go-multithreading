@@ -19,13 +19,12 @@ Este projeto busca informações de endereço a partir de um CEP, utilizando dua
 - Conexão com a internet.
 
 ### Passos
-1. Copie o código para um arquivo `main.go`.
-2. No terminal, navegue até o diretório do projeto.
-3. Execute:
+1. No terminal, navegue até o diretório do projeto.
+2. Execute:
    ```bash
    go run main.go
    ```
-4. O programa usa o CEP `89010-904` e exibe o resultado no terminal.
+3. O programa usa o CEP `89010-904` e exibe o resultado no terminal.
 
 ### Exemplo de Saída
 ```
